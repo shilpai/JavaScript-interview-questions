@@ -5,4 +5,5 @@
 - promises
 - polyfillBind
 - currying
-- 
+- Event Bubbling
+- Event Delegation
