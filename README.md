@@ -1,4 +1,5 @@
 # JavaScript-interview-questions
+- async/await
 - Debouncing
 - call apply bind
 - prototype
@@ -7,3 +8,4 @@
 - currying
 - Event Bubbling
 - Event Delegation
+
